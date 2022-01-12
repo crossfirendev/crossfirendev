@@ -21,5 +21,6 @@
       <a href="https://discord.com/users/726380319539986433" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
  
-<a href="https://github.com/crossfirendev">
-![A](https://github-readme-stats.vercel.app/api?crossfirendev=anuraghazra&show_icons=true&theme=radical)
+<a href="https://github.com/crossfirendev/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?crossfirendev=anuraghazra&repo=github-readme-stats" />
+</a>
