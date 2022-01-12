@@ -22,4 +22,4 @@
 </p>
  
 <a href="https://github.com/crossfirendev">
-<img src="https://github-readme-stats.vercel.app/api?username=crossfirendev&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=df761c&text_color=FFFFFF&icon_color=df761c">
+![A](https://github-readme-stats.vercel.app/api?crossfirendev=anuraghazra&show_icons=true&theme=radical)
